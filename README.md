@@ -1,15 +1,15 @@
 # agollo is a golang client for apollo 🚀 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/philchia/agollo)](https://goreportcard.com/report/github.com/philchia/agollo)
-[![codebeat badge](https://codebeat.co/badges/e31b4a09-f531-4b74-a86a-775f46436539)](https://codebeat.co/projects/github-com-philchia-agollo-master)
-[![Coverage Status](https://coveralls.io/repos/github/philchia/agollo/badge.svg?branch=v4)](https://coveralls.io/github/philchia/agollo?branch=v4)
+[![Go Report Card](https://goreportcard.com/badge/github.com/FarmerChillax/agollo)](https://goreportcard.com/report/github.com/FarmerChillax/agollo)
+[![codebeat badge](https://codebeat.co/badges/e31b4a09-f531-4b74-a86a-775f46436539)](https://codebeat.co/projects/github-com-FarmerChillax-agollo-master)
+[![Coverage Status](https://coveralls.io/repos/github/FarmerChillax/agollo/badge.svg?branch=v4)](https://coveralls.io/github/FarmerChillax/agollo?branch=v4)
 [![golang](https://img.shields.io/badge/Language-Go-green.svg?style=flat)](https://golang.org)
-[![GoDoc](https://godoc.org/github.com/philchia/agollo?status.svg)](https://pkg.go.dev/github.com/philchia/agollo/v4)
-![GitHub release](https://img.shields.io/github/release/philchia/agollo.svg)
+[![GoDoc](https://godoc.org/github.com/FarmerChillax/agollo?status.svg)](https://pkg.go.dev/github.com/FarmerChillax/agollo/v4)
+![GitHub release](https://img.shields.io/github/release/FarmerChillax/agollo.svg)
 
-**v1:**[![goproxy.cn](https://goproxy.cn/stats/github.com/philchia/agollo/badges/download-count.svg)](https://goproxy.cn)
-**v3:**[![goproxy.cn](https://goproxy.cn/stats/github.com/philchia/agollo/v3/badges/download-count.svg)](https://goproxy.cn)
-**v4:**[![goproxy.cn](https://goproxy.cn/stats/github.com/philchia/agollo/v4/badges/download-count.svg)](https://goproxy.cn)
+**v1:**[![goproxy.cn](https://goproxy.cn/stats/github.com/FarmerChillax/agollo/badges/download-count.svg)](https://goproxy.cn)
+**v3:**[![goproxy.cn](https://goproxy.cn/stats/github.com/FarmerChillax/agollo/v3/badges/download-count.svg)](https://goproxy.cn)
+**v4:**[![goproxy.cn](https://goproxy.cn/stats/github.com/FarmerChillax/agollo/v4/badges/download-count.svg)](https://goproxy.cn)
 
 
 ## Feature
@@ -27,7 +27,7 @@
 ## Installation
 
 ```sh
-go get -u github.com/philchia/agollo/v4
+go get -u github.com/FarmerChillax/agollo/v4
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ go get -u github.com/philchia/agollo/v4
 ### Import agollo
 
 ```golang
-import "github.com/philchia/agollo/v4"
+import "github.com/FarmerChillax/agollo/v4"
 ```
 
 ### In order to use agollo, issue a client or use the built-in default client

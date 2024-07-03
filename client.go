@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/philchia/agollo/v4/internal/properties"
+	"github.com/FarmerChillax/agollo/v4/internal/properties"
 )
 
 type Client interface {
